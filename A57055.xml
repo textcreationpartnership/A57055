@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reqvests of the gentlemen of the grandjury of this county of Oxford Set under the hand of sixe of them, and presented to the commissioners, were read, and considered of: and thereupon the lords, and others the Kings commissioners have thought fit and ordered as followeth.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57055</idno><idno type="EEBO-CITATION">99833327</idno>
+  <idno type="VID">37803</idno>
+  <idno type="EEBO-PROQUEST">2240928460</idno>
+  
+            <idno type="STC">Wing R1121A</idno>
+            <idno type="STC">ESTC R222097</idno>
+            <idno type="PROQUEST">99833327</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833327e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2196:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reqvests of the gentlemen of the grandjury of this county of Oxford Set under the hand of sixe of them, and presented to the commissioners, were read, and considered of: and thereupon the lords, and others the Kings commissioners have thought fit and ordered as followeth.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by his Majesties command at Oxford Decemb. 19. by Leonard Lichfield printer to the Vniversity,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This pamphlet contains, not the requests, as the title might seem at first sight to indicate, but only the Commissioners' orders consequent on the requests. They are intended to secure proper treatment of the County whenever soldiers are billeted on any town or village." -- Madan.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Grand jury --  England --  Oxfordshire --  Early works to 1800.</term>
+               <term type="topical_term">Soldiers --  Billeting --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Horses --  Early works to 1800.</term>
+               <term type="geographic_name">Oxfordshire (England) --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37803:1"/>
+            <p>
+               <hi>THE</hi> REQVESTS OF THE GENTLEMEN of the Grandjury of this <hi>County of Oxford.</hi>
+            </p>
+            <p>Set under the hand of sixe of them, and presented to the Commissioners, were <hi>read, and considered of:</hi>
+            </p>
+            <p>And thereupon the Lords, and others the Kings Commissioners have thought fit and ordered <hi>as followeth.</hi>
+            </p>
+            <p>Printed by His MAjESTIES Command at <hi>OXFORD Decemb. 19.</hi>
+            </p>
+            <p>By LEONARD LICHFIELD Printer <hi>to the Vniversity.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37803:2"/>
+            <pb n="1" facs="tcp:37803:2"/>
+            <head>
+               <hi>The Requests of the Gentlemen of the</hi> Grandjury of this County of <hi>Oxford,</hi> set under the hands of sixe of them, and presen<g ref="char:EOLhyphen"/>ted to the Commissioners, were read and con<g ref="char:EOLhyphen"/>sidered of, and resolved thus: and thereupon the Lords, and others the Kings Commissioners have thought fit and ordered as followeth.</head>
+            <p>
+               <seg rend="decorInit">T</seg>O the end that no Village shall be overcharged with the en<g ref="char:EOLhyphen"/>tertaining of a greater number of Souldiers, then the place can conveniently beare, accor<g ref="char:EOLhyphen"/>ding to the quality of the persons to be bil<g ref="char:EOLhyphen"/>lited, that before they be absolutely setled, the Constable, or other officer of the place be adived with, that upon the view, it may be disposed of as shall be fit.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:37803:3"/> 2 To the end that the victualls which the Souldiers shall have, in the places where they are or shall be billited, may be rea<g ref="char:EOLhyphen"/>sonably rated and paid for, that there shall be reasonable rates set upon Horse-meat and Mans-meat, and that what shall not be paid for in ready monies, the Soul<g ref="char:EOLhyphen"/>diers shall give tickets for, by which the owners may receive their monies, by the hands of the Commanders, Captains or Officers of these Souldiers, who have had those victualls or horse-meat; and for the rates thereof, it is agreed, that 3<seg rend="sup">s</seg> 6<seg rend="sup">d</seg> by the week, shall be allowed for common Souldiers; and for every Ensigne, and Lievtenant, or above that degree, as they can reasonably agree with the house<g ref="char:EOLhyphen"/>keeper; and so for Quarter-masters and all other Officers under the degree of a Cap<g ref="char:EOLhyphen"/>tain, 4<seg rend="sup">d</seg> for Hay by the day and night is al<g ref="char:EOLhyphen"/>lowed, and for Provender 20<seg rend="sup">d</seg> the bushell, and litter to be allowed in that price, to be taken moderately.</p>
+            <p n="3">3 That there may be no abuse in this, or otherwise by the Souldiers, and if there
+<pb n="3" facs="tcp:37803:3"/>be, that the offendors may be subject to punishment according to the Kings grati<g ref="char:EOLhyphen"/>ous direction, both by His Proclamation and Order. It is further directed and or<g ref="char:EOLhyphen"/>dered, that every Quarter-master, when he billets any Souldiers in any house, shall de<g ref="char:EOLhyphen"/>liver under his hand in writing to the Master or owner of the house, the true names of those he there quarters, and un<g ref="char:EOLhyphen"/>der what Regiment they serve, and under what Captain, and that every Captain may have the like note of the Persons, and of the Armes they beare, that he may know where to require them.</p>
+            <p n="4">4 That if any, with whom any Soul<g ref="char:EOLhyphen"/>diers are offered to be billited, or for the billeting of any horses, shall make it ap<g ref="char:EOLhyphen"/>peare, that in truth they have no such pro<g ref="char:EOLhyphen"/>visions, that due care be taken thereof, that impossibilities be not required at their hands, but some other satisfaction may be given in such cases; and in all such cases, those, who have best store of provisions neer the place, must give assistance to those who have lesse, after the same rates afore<g ref="char:EOLunhyphen"/>mentioned.</p>
+            <p n="5">
+               <pb n="4" facs="tcp:37803:4"/> 5 Because it is informed, that diverse Souldiers, who have their Horses billeted at mens houses, doe turne those Horses in<g ref="char:EOLhyphen"/>to mens Barnes, or other houses or places, where their Corne, Hay, or Straw is, and destroy or wast more by that meanes in one, then would with good usage serve many nights, the same number of Horses; and that the proportion exceed not a peck of Oats for a day and night for one horse,</p>
+            <p>It is ordered that no Corne, Hay, or Straw be taken, but by the delivery of the owners or their Servants, to avoyd spoyle, and to know what is taken, and that they have noe greater proportion of provender allowed.</p>
+            <p n="6">6 And whereas diverse of this Coun<g ref="char:EOLhyphen"/>ty doe complaine, that their Horses and Teemes have been taken for the Kings ser<g ref="char:EOLhyphen"/>vice, and detained, one, two, or three weekes together, and sometimes for a lon<g ref="char:EOLhyphen"/>ger time; that care shall be taken, that from henceforth, the Carts, and Teems so taken, shall be returned home againe as soon as may be, that the Husbandry of the Coun<g ref="char:EOLhyphen"/>ty
+<pb n="5" facs="tcp:37803:4"/>be not neglected, and to the end that the County may not be oppressed. For the time to come, it is ordered that whensoe<g ref="char:EOLhyphen"/>ver the Waggoner-generall, or other Officers for that service, shall have occasion to use any horses or teemes, that before they send out their warrants, they acquaint the Kings Commissioners with the occasion, and the time of the imployment desired, so to take care, that it be such as shall be fit, as they will answer it.</p>
+            <p n="7">7 That if any Officer, Souldier, or Trooper, shall take away any horse from the owner without his consent, either by way of exchange, or other pretence, with<g ref="char:EOLhyphen"/>out good warrant for the Kings service, and that without fraud; or shall break any of the orders before established as afore<g ref="char:EOLhyphen"/>said he shall be proceeded against accord<g ref="char:EOLhyphen"/>ing to Law in a Capitall or Criminall way, as the cases shall deserve.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
